@@ -11,6 +11,7 @@ Here is an overview of Kojib:
 > **Kojib** - Kojib offers complete easy to use decentralized chats. Integrate into any online publishing platform**.** Kojib is a multi user chat room app which includes a wide range of features like unlimited chat rooms, customizer, private chat, avatars, similes, language manager, user profiles, multi-level chat room management radio player and much more.
 >
 > * [Kojib.com](https://kojib.com)
+> * [Source Code](https://github.com/kojibchat/kojib)
 
 > **Kojib Wallet** - Kojib Wallet is a secure, user-friendly online wallet that allows you to store and manage your cryptocurrency in one place. With Kojib.com Wallet, you can easily and safely store, send and receive digital assets, while keeping track of your transactions and balances in real-time. Kojib Wallet also offers an integrated feature that allows you to easily convert between different digital assets. Kojib Wallet is designed with both beginners and experienced traders in mind, and provides a secure and easy to use interface for managing your assets. Kojib Wallet also allows you to easily and securely back up your wallet, and offers a range of security features.&#x20;
 >
