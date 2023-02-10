@@ -9,7 +9,7 @@
 
 ## Product Guides
 
-* [💬 Kojib Messenger](product-guides/kojib-messenger.md)
+* [💬 Kojib Messenger](product-guides/creating-a-chat.md)
 * [🤖 Kojib Ai Chat](product-guides/kojib-ai-chat.md)
 * [🪙 Kojib Token (💬)](product-guides/kojib-token.md)
 * [🏦 Kojib Wallet](product-guides/kojib-wallet.md)
