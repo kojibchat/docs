@@ -25,6 +25,8 @@ Here is an overview of Kojib:
 > * [Kojib Token Charts & Info](https://app.phi.exchange/info/token/0x1e3c681cef5ee05112187f61d21401310f8eba21)
 > * [Token Source code ](https://github.com/kojibchat/kojibtoken)
 >
+>
+>
 > **Kojib.Chat** - Kojib Chat is a chatbot that provides a conversational way to interact with Kojib.com. Kojib.Chat is able to provide answers to a wide range of questions and topics, and it can also engage in natural-sounding conversations. Kojib.Chat is powered by KojbBot, a powerful language model that is able to generate human-like response.
 >
 > * [Kojib Ai Chat](https://kojib.chat)
@@ -46,6 +48,10 @@ We've put together some helpful guides for you to get setup with our product qui
 
 {% content-ref url="fundamentals/getting-set-up/" %}
 [getting-set-up](fundamentals/getting-set-up/)
+{% endcontent-ref %}
+
+{% content-ref url="product-guides/creating-a-chat.md" %}
+[creating-a-chat.md](product-guides/creating-a-chat.md)
 {% endcontent-ref %}
 
 {% content-ref url="product-guides/kojib-ai-chat.md" %}
