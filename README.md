@@ -43,6 +43,14 @@ We've put together some helpful guides for you to get setup with our product qui
 [getting-set-up](fundamentals/getting-set-up/)
 {% endcontent-ref %}
 
+{% content-ref url="product-guides/kojib-ai-chat.md" %}
+[kojib-ai-chat.md](product-guides/kojib-ai-chat.md)
+{% endcontent-ref %}
+
+{% content-ref url="product-guides/kojib-wallet.md" %}
+[kojib-wallet.md](product-guides/kojib-wallet.md)
+{% endcontent-ref %}
+
 {% content-ref url="fundamentals/getting-set-up/goverance.md" %}
 [goverance.md](fundamentals/getting-set-up/goverance.md)
 {% endcontent-ref %}
