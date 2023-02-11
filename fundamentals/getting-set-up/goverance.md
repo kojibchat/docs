@@ -23,3 +23,9 @@ Additionally, the tokens are also used as a reward system, incentivizing users t
 {% content-ref url="../../product-guides/kojib-wallet.md" %}
 [kojib-wallet.md](../../product-guides/kojib-wallet.md)
 {% endcontent-ref %}
+
+### How To Connect To Governance dApp?
+
+{% content-ref url="dapp-browser.md" %}
+[dapp-browser.md](dapp-browser.md)
+{% endcontent-ref %}
