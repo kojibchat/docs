@@ -34,8 +34,8 @@ Here is an overview of Kojib:
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="overview/kojib.md" %}
+[kojib.md](overview/kojib.md)
 {% endcontent-ref %}
 
 {% content-ref url="overview/features.md" %}
@@ -44,7 +44,7 @@ Here is an overview of Kojib:
 
 ## Get Started
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+We've put together some helpful guides for you to get setup with the protocol quickly and easily.
 
 {% content-ref url="fundamentals/getting-set-up/" %}
 [getting-set-up](fundamentals/getting-set-up/)
