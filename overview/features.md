@@ -8,7 +8,7 @@ Kojib is a secure and private messaging platform that offers a variety of featur
 
 • File sharing: Kojib users can easily share files with each other, including photos, videos, and documents.
 
-• Audio/video calls: Kojib users can make audio and video calls with each other.
+• Audio/video message: Kojib users can send audio and video messages with each other.
 
 • Decentralized platform: Kojib is a decentralized platform, meaning it does not rely on any single server, making it more secure and resilient against attacks.
 
