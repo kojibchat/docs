@@ -10,7 +10,9 @@ description: >-
 Prerequisite: ​[Alpha Wallet](https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/alpha-wallet-setup) Must Be Installed & Configured On Device In Order To Use Decentralized Applications On Your Mobile Device You Will Need To A dApp Browser.&#x20;
 {% endhint %}
 
-You can Access The dApp Browser Within Alpha Wallet By Following The Visual Aids Below.![](https://3822563746-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FlVj2nOOvEZwC3UwUL89a%2Fuploads%2FuX6PLtSPEOg8acJn15xM%2FIMG\_5563.jpg?alt=media\&token=c433a006-beca-461d-aed7-5fec15053b47)
+You can Access The dApp Browser Within Alpha Wallet By Following The Visual Aids Below.
+
+![](https://3822563746-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FlVj2nOOvEZwC3UwUL89a%2Fuploads%2FuX6PLtSPEOg8acJn15xM%2FIMG\_5563.jpg?alt=media\&token=c433a006-beca-461d-aed7-5fec15053b47)
 
 Click Browser In The Bottom Menu.![](https://3822563746-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FlVj2nOOvEZwC3UwUL89a%2Fuploads%2F22l4Igwup8fi1ccGoE9F%2FIMG\_5564.jpg?alt=media\&token=85d0d067-2e0f-4bc9-936f-ea79c19055e9)
 
