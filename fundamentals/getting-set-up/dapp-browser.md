@@ -38,7 +38,7 @@ When Using Alpha Wallet or Any Compatible Web3 Wallet For The First Time Select 
 Congratulations You've Learned How To Access A dApp Browser.
 {% endhint %}
 
-### Use Case For dApp Browser:
+### Kojib Use Case For dApp Browser:
 
 You Will Need To Use A dApp Browser To Connect To The Governance dApp to Vote & Create New Proposals On Your Mobile Device.&#x20;
 
