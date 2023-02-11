@@ -8,8 +8,8 @@ Kojib also provides a wide range of tools and features to help users stay connec
 
 Kojib Offers Multiple Open-source Products From A Self Custodial Wallet & Exchange ([Kojib Wallet](https://wallet.kojib.com)), Conversational Chatbot ([Kojib Chat](https://kojib.chat)), A Cryptographic Utility Token ([💬](https://app.phi.exchange/info/token/0x1e3c681cef5ee05112187f61d21401310f8eba21)) & Governance dApp .
 
-{% content-ref url="../fundamentals/getting-set-up/governance.md" %}
-[governance.md](../fundamentals/getting-set-up/governance.md)
+{% content-ref url="../fundamentals/getting-set-up/governance/" %}
+[governance](../fundamentals/getting-set-up/governance/)
 {% endcontent-ref %}
 
 Overall, Kojib is a secure and private messaging platform that provides a decentralized messaging experience that is both secure and private. With its secure blockchain technology and wide range of features and tools, Kojib is the perfect way to stay connected with people from all around the world and share your thoughts, ideas, and experiences.

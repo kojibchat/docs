@@ -19,8 +19,8 @@
 
 * [🛠 Getting set up](fundamentals/getting-set-up/README.md)
   * [👩❤👨 Embed Group Chats](fundamentals/getting-set-up/embed-group-chats.md)
-  * [📝 Governance](fundamentals/getting-set-up/governance.md)
-  * [📱 dApp Browser](fundamentals/getting-set-up/dapp-browser.md)
+  * [📝 Governance](fundamentals/getting-set-up/governance/README.md)
+    * [📱 dApp Browser](fundamentals/getting-set-up/governance/dapp-browser.md)
 
 ## Use Cases
 

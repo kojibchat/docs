@@ -20,14 +20,14 @@ Additionally, the tokens are also used as a reward system, incentivizing users t
 
 ### Kojib Wallet:
 
-{% content-ref url="../../product-guides/kojib-wallet.md" %}
-[kojib-wallet.md](../../product-guides/kojib-wallet.md)
+{% content-ref url="../../../product-guides/kojib-wallet.md" %}
+[kojib-wallet.md](../../../product-guides/kojib-wallet.md)
 {% endcontent-ref %}
 
 ### Kojib Token ([💬](https://app.phi.exchange/info/token/0x1e3c681cef5ee05112187f61d21401310f8eba21)):
 
-{% content-ref url="../../product-guides/kojib-token.md" %}
-[kojib-token.md](../../product-guides/kojib-token.md)
+{% content-ref url="../../../product-guides/kojib-token.md" %}
+[kojib-token.md](../../../product-guides/kojib-token.md)
 {% endcontent-ref %}
 
 ### How To Connect To Governance dApp?

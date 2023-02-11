@@ -22,11 +22,11 @@ You can Access The dApp Browser Within Alpha Wallet By Following The Visual Aids
 
 <div>
 
-<figure><img src="../../.gitbook/assets/spaces_lVj2nOOvEZwC3UwUL89a_uploads_uX6PLtSPEOg8acJn15xM_IMG_5563.webp" alt=""><figcaption><p>Click Browser In Bottom Menu</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/spaces_lVj2nOOvEZwC3UwUL89a_uploads_uX6PLtSPEOg8acJn15xM_IMG_5563.webp" alt=""><figcaption><p>Click Browser In Bottom Menu</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/spaces_lVj2nOOvEZwC3UwUL89a_uploads_22l4Igwup8fi1ccGoE9F_IMG_5564.webp" alt=""><figcaption><p>Enter The Url Of the dApp You Want To Access. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/spaces_lVj2nOOvEZwC3UwUL89a_uploads_22l4Igwup8fi1ccGoE9F_IMG_5564.webp" alt=""><figcaption><p>Enter The Url Of the dApp You Want To Access. </p></figcaption></figure>
 
 </div>
 
@@ -46,6 +46,6 @@ You Will Need To Use A dApp Browser To Connect To Kojib's Governance dApp to Vot
 Alternatively You Can Access Via Your Desktop/Laptop Using [Metamask](https://metamask.io/) Chrome Extension.&#x20;
 {% endhint %}
 
-{% content-ref url="governance.md" %}
-[governance.md](governance.md)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
