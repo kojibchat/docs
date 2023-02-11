@@ -14,4 +14,12 @@ This system ensures that the platform remains open to user feedback and is const
 
 Additionally, the tokens are also used as a reward system, incentivizing users to participate in the platform and helping to ensure its continued growth and development.
 
+## Governance dApp:
+
 {% embed url="https://snapshot.org/#/kojib.eth/" %}
+
+### Kojib Wallet:
+
+{% content-ref url="../../product-guides/kojib-wallet.md" %}
+[kojib-wallet.md](../../product-guides/kojib-wallet.md)
+{% endcontent-ref %}
