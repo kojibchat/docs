@@ -46,3 +46,6 @@ You Will Need To Use A dApp Browser To Connect To The Governance dApp to Vote & 
 Alternatively You Can Access Via Your Desktop/Laptop Using [Metamask](https://metamask.io/) Chrome Extension.&#x20;
 {% endhint %}
 
+{% content-ref url="goverance.md" %}
+[goverance.md](goverance.md)
+{% endcontent-ref %}
