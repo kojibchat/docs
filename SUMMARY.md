@@ -37,3 +37,7 @@
   * [API request to get User info](api/kojib-connect-api/api-request-to-get-user-info.md)
   * [API request to edit existing user](api/kojib-connect-api/api-request-to-edit-existing-user.md)
   * [API request to create new user](api/kojib-connect-api/api-request-to-create-new-user.md)
+
+***
+
+* [Github](https://github.com/kojibchat)
