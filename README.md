@@ -24,14 +24,23 @@ Here is an overview of Kojib Protocol:
 >
 > * [Kojib Token Charts & Info](https://app.phi.exchange/info/token/0x1e3c681cef5ee05112187f61d21401310f8eba21)
 > * [Token Source code ](https://github.com/kojibchat/kojibtoken)
+
+
+
+> **Kojib Search** - Kojib Search is an advanced private decentralized search engine designed to provide users with a secure and private way to search the internet. It uses a distributed ledger and peer-to-peer network to store and access data, which eliminates the need for a central server and makes it more secure than other search engines. Kojib Search also uses advanced algorithms and data structures to provide faster and more relevant results, making searching easier and more effective. With its decentralized architecture, Kojib ensures that user data is safe and secure, as it does not rely on any single server or entity for storage or retrieval. As a result, users can rest assured that their data is secure and private, and that their search results are accurate and up to date.
 >
+> * [Kojib Search](https://search.kojib.com)
+> * [Search Source Code](https://github.com/kojibchat/search)
+
+
+
 >
 >
 > **Kojib.Chat** - Kojib Chat is a chatbot that provides a conversational way to interact with Kojib.com. Kojib.Chat is able to provide answers to a wide range of questions and topics, and it can also engage in natural-sounding conversations. Kojib.Chat is powered by KojbBot, a powerful language model that is able to generate human-like response.
 >
 > * [Kojib Ai Chat](https://kojib.chat)
 > * [Ai Chat Source Code](https://github.com/kojibchat/ai)
->
+
 >
 >
 > **Kojib Governance** - Kojib uses a decentralized governance system to allow users to have a say in the future of the platform.&#x20;
