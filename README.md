@@ -31,6 +31,15 @@ Here is an overview of Kojib:
 >
 > * [Kojib Ai Chat](https://kojib.chat)
 > * [Ai Chat Source Code](https://github.com/kojibchat/ai)
+>
+>
+>
+> **Kojib Governance** - Kojib uses a decentralized governance system to allow users to have a say in the future of the platform.&#x20;
+>
+> This is achieved through the use of Kojib tokens, which are used to give users voting rights and to create proposals to update or change the protocol.&#x20;
+>
+> * [Governance](https://docs.kojib.com/kojib-docs/fundamentals/getting-set-up/governance)
+> * [Source Code](https://github.com/kojibchat/snapshot-spaces)
 
 ## Quick links
 
