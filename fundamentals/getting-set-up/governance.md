@@ -2,7 +2,7 @@
 description: Learn More About Kojib Protocol Governance
 ---
 
-# 📝 Goverance
+# 📝 Governance
 
 Kojib uses a decentralized governance system to allow users to have a say in the future of the platform.&#x20;
 
@@ -22,6 +22,12 @@ Additionally, the tokens are also used as a reward system, incentivizing users t
 
 {% content-ref url="../../product-guides/kojib-wallet.md" %}
 [kojib-wallet.md](../../product-guides/kojib-wallet.md)
+{% endcontent-ref %}
+
+### Kojib Token:
+
+{% content-ref url="../../product-guides/kojib-token.md" %}
+[kojib-token.md](../../product-guides/kojib-token.md)
 {% endcontent-ref %}
 
 ### How To Connect To Governance dApp?
