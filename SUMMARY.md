@@ -20,6 +20,7 @@
 * [🛠 Getting set up](fundamentals/getting-set-up/README.md)
   * [👩❤👨 Embed Group Chats](fundamentals/getting-set-up/embed-group-chats.md)
   * [📝 Goverance](fundamentals/getting-set-up/goverance.md)
+  * [📱 dApp Browser](fundamentals/getting-set-up/dapp-browser.md)
 
 ## Use Cases
 
