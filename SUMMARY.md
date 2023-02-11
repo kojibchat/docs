@@ -11,6 +11,7 @@
 
 * [💬 Kojib Messenger](product-guides/creating-a-chat.md)
 * [🤖 Kojib Ai Chat](product-guides/kojib-ai-chat.md)
+* [🔍 Kojib Search](product-guides/kojib-search.md)
 * [🪙 Kojib Token (💬)](product-guides/kojib-token.md)
 * [🏦 Kojib Wallet](product-guides/kojib-wallet.md)
 * [📎 Understanding Kojib](product-guides/understanding-kojib.md)
