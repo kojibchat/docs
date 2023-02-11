@@ -16,7 +16,7 @@ Prerequisite:&#x20;
 [PHI Network](https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup#phi-smart-chain-v2-connection-details) Added To Alpha Wallet
 {% endhint %}
 
-In Order To Use Decentralized Applications On Your Mobile Device You Will Need To A dApp Browser.&#x20;
+In Order To Use Decentralized Applications On Your Mobile Device Like Kojib Governance dApp You Will Need To A dApp Browser.&#x20;
 
 You can Access The dApp Browser Within Alpha Wallet By Following The Visual Aids Below.
 
@@ -26,13 +26,9 @@ You can Access The dApp Browser Within Alpha Wallet By Following The Visual Aids
 
  
 
-<figure><img src="../../.gitbook/assets/spaces_lVj2nOOvEZwC3UwUL89a_uploads_22l4Igwup8fi1ccGoE9F_IMG_5564.webp" alt=""><figcaption><p>Enter Url Of dApp</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/spaces_lVj2nOOvEZwC3UwUL89a_uploads_22l4Igwup8fi1ccGoE9F_IMG_5564.webp" alt=""><figcaption><p>Enter The Url Of the dApp You Want To Access. </p></figcaption></figure>
 
 </div>
-
-{% hint style="info" %}
-Enter The Url Of the dApp You Want To Access. When Your Accessing A dApp Within Alpha Wallet When You Click "Metamask" Labels It Will Function Within Alpha Wallet Not Metamask.
-{% endhint %}
 
 {% hint style="warning" %}
 When Using Alpha Wallet or Any Compatible Web3 Wallet For The First Time Select You Already Have a Wallet & Use Your 12 Word Phrase or Private Key From Your [Kojib Wallet.](https://wallet.kojib.com)&#x20;
