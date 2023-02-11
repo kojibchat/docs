@@ -1,8 +1,8 @@
-# 📝 Goverance
+---
+description: Learn More About Kojib Protocol Governance
+---
 
-{% hint style="warning" %}
-## 🚧[ ](https://emojipedia.org/construction/)Coming Soon! Kojib Voting System Is Currently Under Construction. 🚧
-{% endhint %}
+# 📝 Goverance
 
 Kojib uses a decentralized governance system to allow users to have a say in the future of the platform.&#x20;
 
@@ -13,3 +13,5 @@ Every users tokens are use to vote on proposals, and the proposals with the most
 This system ensures that the platform remains open to user feedback and is constantly evolving to meet the needs of its users.&#x20;
 
 Additionally, the tokens are also used as a reward system, incentivizing users to participate in the platform and helping to ensure its continued growth and development.
+
+{% embed url="https://snapshot.org/#/kojib.eth/" %}
