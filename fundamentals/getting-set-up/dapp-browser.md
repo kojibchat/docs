@@ -9,7 +9,7 @@ description: >-
 {% hint style="danger" %}
 Prerequisite:&#x20;
 
-​[Alpha Wallet](https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/alpha-wallet-setup) Must Be Installed
+​[Alpha Wallet](https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/alpha-wallet-setup) Installed On Mobile Device
 
 [PHI Network](https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup#phi-smart-chain-v2-connection-details) Added To Alpha Wallet
 {% endhint %}
