@@ -12,9 +12,15 @@ Prerequisite: ​[Alpha Wallet](https://docs.phi.network/phi-wiki/use-phi-smart-
 
 You can Access The dApp Browser Within Alpha Wallet By Following The Visual Aids Below.
 
-![](https://3822563746-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FlVj2nOOvEZwC3UwUL89a%2Fuploads%2FuX6PLtSPEOg8acJn15xM%2FIMG\_5563.jpg?alt=media\&token=c433a006-beca-461d-aed7-5fec15053b47)
+<div>
 
-Click Browser In The Bottom Menu.![](https://3822563746-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FlVj2nOOvEZwC3UwUL89a%2Fuploads%2F22l4Igwup8fi1ccGoE9F%2FIMG\_5564.jpg?alt=media\&token=85d0d067-2e0f-4bc9-936f-ea79c19055e9)
+<figure><img src="../../.gitbook/assets/spaces_lVj2nOOvEZwC3UwUL89a_uploads_uX6PLtSPEOg8acJn15xM_IMG_5563.webp" alt=""><figcaption><p>Click Browser In Bottom Menu</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/spaces_lVj2nOOvEZwC3UwUL89a_uploads_22l4Igwup8fi1ccGoE9F_IMG_5564.webp" alt=""><figcaption><p>Enter Url Of dApp</p></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 Enter The Url Of the dApp You Want To Access. When Your Accessing A dApp Within Alpha Wallet When You Click "Metamask" Labels It Will Function Within Alpha Wallet Not Metamask.
