@@ -6,7 +6,7 @@ description: Kojib is a secure and private decentralized messaging protocol.
 
 ### Overview
 
-Here is an overview of Kojib:
+Here is an overview of Kojib Protocol:
 
 > **Kojib** - Kojib offers complete easy to use decentralized chats. Integrate into any online publishing platform**.** Kojib is a multi user chat room app which includes a wide range of features like unlimited chat rooms, customizer, private chat, avatars, similes, language manager, user profiles, multi-level chat room management radio player and much more.
 >
