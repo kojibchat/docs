@@ -40,7 +40,7 @@ Congratulations You've Learned How To Access A dApp Browser.
 
 ### Kojib Use Case For dApp Browser:
 
-You Will Need To Use A dApp Browser To Connect To The Governance dApp to Vote & Create New Proposals On Your Mobile Device.&#x20;
+You Will Need To Use A dApp Browser To Connect To Kojib's Governance dApp to Vote & Create New Proposals On Your Mobile Device.&#x20;
 
 {% hint style="warning" %}
 Alternatively You Can Access Via Your Desktop/Laptop Using [Metamask](https://metamask.io/) Chrome Extension.&#x20;
