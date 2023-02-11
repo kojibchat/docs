@@ -34,8 +34,8 @@ Here is an overview of Kojib:
 
 ## Quick links
 
-{% content-ref url="overview/kojib.md" %}
-[kojib.md](overview/kojib.md)
+{% content-ref url="overview/what-we-do.md" %}
+[what-we-do.md](overview/what-we-do.md)
 {% endcontent-ref %}
 
 {% content-ref url="overview/features.md" %}

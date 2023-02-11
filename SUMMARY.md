@@ -4,7 +4,7 @@
 
 ## Overview
 
-* [💡 Kojib](overview/kojib.md)
+* [💡 Kojib](overview/what-we-do.md)
 * [✨ Features](overview/features.md)
 
 ## Product Guides
