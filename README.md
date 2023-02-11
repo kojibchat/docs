@@ -62,8 +62,8 @@ We've put together some helpful guides for you to get setup with the protocol qu
 [kojib-wallet.md](product-guides/kojib-wallet.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/goverance.md" %}
-[goverance.md](fundamentals/getting-set-up/goverance.md)
+{% content-ref url="fundamentals/getting-set-up/governance.md" %}
+[governance.md](fundamentals/getting-set-up/governance.md)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/getting-set-up/embed-group-chats.md" %}
