@@ -6,7 +6,7 @@ Kojib runs on the Phi Network blockchain, a secure and reliable platform for tra
 
 Kojib also provides a wide range of tools and features to help users stay connected and communicate with people from all around the world. With Kojib, users can share messages, images, videos, and files with each other, and can even create group conversations and video calls. Additionally, Kojib provides a wide range of analytics tools to help users track their performance and make informed decisions about their business.
 
-Kojib Offers Multiple Products From A Self Custodial Wallet ([Kojib Wallet](https://wallet.kojib.com)), Conversational Chatbot ([Kojib Chat](https://kojib.chat)), A Cryptographic Utility Token ([💬](https://app.phi.exchange/info/token/0x1e3c681cef5ee05112187f61d21401310f8eba21)) & Governance dApp .
+Kojib Offers Multiple Open-source Products From A Self Custodial Wallet & Exchange ([Kojib Wallet](https://wallet.kojib.com)), Conversational Chatbot ([Kojib Chat](https://kojib.chat)), A Cryptographic Utility Token ([💬](https://app.phi.exchange/info/token/0x1e3c681cef5ee05112187f61d21401310f8eba21)) & Governance dApp .
 
 {% content-ref url="../fundamentals/getting-set-up/goverance.md" %}
 [goverance.md](../fundamentals/getting-set-up/goverance.md)
