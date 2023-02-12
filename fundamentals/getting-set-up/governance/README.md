@@ -16,7 +16,7 @@ Additionally, the tokens are also used as a reward system, incentivizing users t
 
 ## Governance dApp:
 
-{% embed url="https://gov.kojib.com" %}
+[Open Governance dApp](https://gov.kojib.com)
 
 ### Kojib Wallet:
 
