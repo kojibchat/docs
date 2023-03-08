@@ -18,8 +18,6 @@ Here is an overview of Kojib Protocol:
 > * [Kojib Wallet](https://wallet.kojib.com)
 > * [Wallet Source Code](https://github.com/kojibchat/kojibwallet)
 
->
->
 > **Kojib Token**- The Kojib token is a digital asset PHI20 Token that is powered by the [Phi Network](https://phi.network) blockchain. The Kojib token can be used to purchase goods and services on the Kojib platform, and can also be used to transfer value between users. The Kojib token is secured on the Phi Network blockchain, which provides a secure and reliable platform for transactions. The Kojib token relies on a consensus system that is based on proof-of-stake, which ensures that transactions are processed quickly and securely. The Kojib token is also designed to be easily transferable, making it an ideal asset for trading and exchanging value on the Kojib platform. Kojib Token is also used for governance giving Kojib Token holders permissions to create proposals and vote on changes to the protocol. Kojib is a DAO Governed By Kojib Tokens.&#x20;
 >
 > * [Kojib Token Charts & Info](https://app.phi.exchange/info/token/0x1e3c681cef5ee05112187f61d21401310f8eba21)
@@ -29,6 +27,15 @@ Here is an overview of Kojib Protocol:
 >
 > * [Kojib Search](https://search.kojib.com)
 > * [Search Source Code](https://github.com/kojibchat/search)
+>
+> ****
+>
+> ****
+>
+> **Kojib AI Assistant** -Kojib AI assistant is an advanced software program designed to assist users in various tasks by understanding natural language commands. It is equipped with machine learning algorithms that enable it to learn and adapt to the user's preferences and behaviors, providing personalized assistance.&#x20;
+>
+> * [Kojib Ai Assistant](https://ai.kojib.com)
+> * [Ai Assistant Source Code](https://github.com/kojibchat/ai)
 
 > **Kojib.Chat** - Kojib Chat is a chatbot that provides a conversational way to interact with Kojib.com. Kojib.Chat is able to provide answers to a wide range of questions and topics, and it can also engage in natural-sounding conversations. Kojib.Chat is powered by KojbBot, a powerful language model that is able to generate human-like response.
 >

@@ -10,6 +10,7 @@
 ## Product Guides
 
 * [💬 Kojib Messenger](product-guides/creating-a-chat.md)
+* [🤖 Kojib AI Assistant](product-guides/kojib-ai-assistant.md)
 * [🤖 Kojib Ai Chat](product-guides/kojib-ai-chat.md)
 * [🔍 Kojib Search](product-guides/kojib-search.md)
 * [🪙 Kojib Token (💬)](product-guides/kojib-token.md)
