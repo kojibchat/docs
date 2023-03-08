@@ -71,6 +71,10 @@ We've put together some helpful guides for you to get setup with the protocol qu
 [creating-a-chat.md](product-guides/creating-a-chat.md)
 {% endcontent-ref %}
 
+{% content-ref url="product-guides/kojib-ai-assistant.md" %}
+[kojib-ai-assistant.md](product-guides/kojib-ai-assistant.md)
+{% endcontent-ref %}
+
 {% content-ref url="product-guides/kojib-ai-chat.md" %}
 [kojib-ai-chat.md](product-guides/kojib-ai-chat.md)
 {% endcontent-ref %}
