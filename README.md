@@ -27,11 +27,7 @@ Here is an overview of Kojib Protocol:
 >
 > * [Kojib Search](https://search.kojib.com)
 > * [Search Source Code](https://github.com/kojibchat/search)
->
-> ****
->
-> ****
->
+
 > **Kojib AI Assistant** -Kojib AI assistant is an advanced software program designed to assist users in various tasks by understanding natural language commands. It is equipped with machine learning algorithms that enable it to learn and adapt to the user's preferences and behaviors, providing personalized assistance.&#x20;
 >
 > * [Kojib Ai Assistant](https://ai.kojib.com)
