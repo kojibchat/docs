@@ -1,6 +1,6 @@
 # 💡 Kojib
 
-Kojib is a secure and private messaging platform that is powered by blockchain technology. The platform is designed to provide users with a decentralized messaging experience that is both secure and private. With end-to-end encryption and a decentralized architecture, Kojib ensures that no one else can access your messages or data.
+Kojib is a secure and private messaging protocol that is powered by blockchain technology. The platform is designed to provide users with a decentralized messaging experience that is both secure and private. With end-to-end encryption and a decentralized architecture, Kojib ensures that no one else can access your messages or data.
 
 Kojib runs on the Phi Network blockchain, a secure and reliable platform for transactions. The Phi Network blockchain is secured by a consensus system call Phi consensus, which ensures that transactions are processed quickly and securely. The Kojib token is also secured by the Phi Network blockchain, with a decentralized autonomous organization (DAO) responsible for setting the parameters of the token, such as its supply and its inflation rate.
 

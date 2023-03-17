@@ -1,5 +1,7 @@
 ---
-description: Kojib is a secure and private decentralized messaging protocol.
+description: >-
+  Kojib is a Secure and Private Fecentralized Messaging, Search & Generative Ai
+  Protocol.
 ---
 
 # 👋 Welcome to Kojib
